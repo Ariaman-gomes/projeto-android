@@ -44,7 +44,6 @@ a.externo::after {
         min-height:  150px;
         text-align: center;
         padding-top: 40px;
-        
 
     }
 
@@ -54,6 +53,7 @@ a.externo::after {
         border-radius: 10px;}*/
     
     header>h1{
+        width: 100%;
         color:white ;
         font-family: var(--font-destaque);  /*ok*/
         margin-bottom: 20px;
